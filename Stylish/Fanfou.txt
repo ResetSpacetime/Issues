@@ -1,0 +1,7 @@
+.textarea-wrapper textarea {
+  height: 645px !important;
+ }
+
+#friends, #goodapp, #reminder, #user_top, .sect, #user_stats, #searchr, #timeline-notification, .method, .stamp, .avatar, .former, .nickquery, .photo, #footer {
+  display: none;
+}

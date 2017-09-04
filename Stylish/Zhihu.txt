@@ -1,0 +1,43 @@
+/***** Hide Ads on the right *****/
+
+div[data-za-module="ExternalAdItem"] {display: none;}
+
+/***** Hide Ads in the timeline *****/
+
+div[class="Advert--card"] {display: none;}
+div[data-za-module="AdItem"] {display: none;}
+button[class="Button TopstoryItem-advertButton Button--plain"] {display: none;}
+
+/***** Hide Thumb-ups in the timeline *****/
+
+div[class="ContentItem-actions"] {display: none;}
+a[class="zm-item-vote-count js-expand js-vote-count"] {display: none;}
+div[class="zm-item-vote"] {display: none;}
+
+/***** Hide Recommend items in the timeline *****/
+
+div[class="ActionCard"] {display: none;}
+div[class="section-title"] {display: none;}
+ul[class="list hot-favlists"] {display: none;}
+
+/***** Hide Recommend items on the right *****/
+
+div[data-za-module="CollectionList"] {display: none;}
+
+/***** Hide images *****/
+
+div[class="RichContent-cover"] {display: none;}
+img[class="Avatar AuthorInfo-avatar"] {display: none;}
+a[class="UserLink-badge"] {display: none;}
+img[class="Avatar Avatar--large"] {display: none;}
+div[class="Card AnswerAuthor"] {display: none;}
+img[class="Avatar Avatar--medium RelatedLives-avatar"] {display: none;}
+a[class="avatar-link"] {display: none;}
+img[class="origin_image inline-img zh-lightbox-thumb"] {display: none;}
+span[class="icon icon-badge-best_answerer icon-badge"] {display: none;}
+span[class="OrgIcon sprite-global-icon-org-14"] {display: none;}
+div[class="avatar"] {display: none;}
+span[class="icon icon-badge-id-an icon-badge"] {display: none;}
+span[class="TopstorySideBar-categoryIcon"] {display: none;}
+
+
